@@ -1,1 +1,2 @@
-# openconfigs
+. <(curl -s -o- )
+
