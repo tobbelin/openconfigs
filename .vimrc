@@ -1,4 +1,6 @@
 
+nnoremap <SPACE> <Nop>
+let mapleader=" "
 
 call plug#begin()
   Plug 'preservim/nerdtree'
