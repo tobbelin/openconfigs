@@ -12,5 +12,6 @@ call plug#begin()
   Plug 'junegunn/fzf.vim'
   Plug 'jeetsukumaran/vim-pythonsense'
   Plug 'davidhalter/jedi-vim'
+  Plug 'itspriddle/vim-shellcheck'
 
 call plug#end()
